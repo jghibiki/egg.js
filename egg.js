@@ -156,3 +156,5 @@ Egg.prototype.addHook = Egg.prototype.AddHook;
 //     console.log("Hook called for: " + this.activeEgg.keys);
 //     console.log(this.activeEgg.metadata);
 //   }).Listen();
+
+export Egg
